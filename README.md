@@ -1,5 +1,6 @@
 # banking-network-system
 IoT-Integrated Banking Network System with Secure Vault , DHCP, and  Topological Optimization for Enhanced Efficiency and Security
+
 Introduction
 With the integration of IoT in banking, a network system that securely connects various smart devices while managing data with agility has become crucial.
 This project focuses on developing a banking network system that employs IoT devices, a vault for secure storage, and Dynamic Host Configuration Protocol (DHCP) for seamless device connectivity.
